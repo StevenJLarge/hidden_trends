@@ -1,0 +1,11 @@
+-e .
+
+numpy
+pandas
+matplotlib
+seaborn
+pyarrow
+vipco
+hidden-py
+yfinance
+loguru
